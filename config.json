@@ -2,11 +2,11 @@
     "updater": {
         "default": {
             "provider": "github",
-            "repo": "openblockcc/external-resources-v2"
+            "repo": "vcloudblock/external-resources-v2"
         },
         "cn" : {
             "provider": "spaces",
-            "name": "openblock",
+            "name": "vcloudblock",
             "path": "resource",
             "region": "sgp1"
         }
