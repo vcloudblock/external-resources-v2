@@ -4,7 +4,7 @@ const arduinoOttoRobot = formatMessage => ({
     version: '1.0.0',             //显示在扩展选择界面的版本号
     type: 'arduino',           //标识对此插件的处置方式
     supportDevice: ['arduinoUno'], //支持的设备，扩展只会选择了对应支持的设备后才会在扩展选择界面显示
-    author: 'openblock',        //显示在扩展选择界面的作者名字
+    author: 'VCloudBlock',        //显示在扩展选择界面的作者名字
     iconURL: `asset/arduinoOttoRobot.png`,   //显示在扩展选择界面的图片，图片比例和像素参数请参照DHT11样例中的修改
     description: formatMessage({
         id: 'arduinoOttoRobot.description',

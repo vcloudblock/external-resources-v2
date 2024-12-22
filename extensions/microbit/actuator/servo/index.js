@@ -23,7 +23,7 @@ const servo = formatMessage => ({
     library: 'lib',
     official: true,
     tags: ['actuator'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://github.com/vcloudblock/vcloudblock-wiki'
 });
 
 module.exports = servo;

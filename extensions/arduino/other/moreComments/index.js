@@ -20,7 +20,7 @@ const moreComments = formatMessage => ({
     msg: 'msg.js',
     official: true,
     tags: ['other'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://github.com/vcloudblock/vcloudblock-wiki'
 });
 
 module.exports = moreComments;

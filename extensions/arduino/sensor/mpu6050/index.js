@@ -21,7 +21,7 @@ const mpu6050 = formatMessage => ({
     library: 'lib',
     official: true,
     tags: ['sensor'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://github.com/vcloudblock/vcloudblock-wiki'
 });
 
 module.exports = mpu6050;

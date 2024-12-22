@@ -21,7 +21,7 @@ const shiftDigitDisplay = formatMessage => ({
     library: 'lib',
     official: true,
     tags: ['display'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://github.com/vcloudblock/vcloudblock-wiki'
 });
 
 module.exports = shiftDigitDisplay;

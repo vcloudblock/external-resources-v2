@@ -21,7 +21,7 @@ const ps2 = formatMessage => ({
     library: 'lib',
     official: true,
     tags: ['communication'],
-    helpLink: 'https://wiki.openblock.cc'
+    helpLink: 'https://github.com/vcloudblock/vcloudblock-wiki'
 });
 
 module.exports = ps2;
